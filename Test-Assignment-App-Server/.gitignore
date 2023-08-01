@@ -1,0 +1,5 @@
+/obj
+/bin/Debug/net7.0/*.dll
+/bin/Debug/net7.0/*.pdb
+/bin/Debug/net7.0/*.json
+/bin/Debug/net7.0/win-x64
